@@ -150,5 +150,7 @@ function calculateWinner(squares) {
   return null;
 }
 
+
+2;
 // ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
